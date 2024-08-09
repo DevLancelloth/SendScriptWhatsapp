@@ -1,7 +1,3 @@
-Aqui está um README detalhado para o seu script de envio automático de mensagens:
-
----
-
 # Script de Envio Automático de Mensagens
 
 Este script automatiza o envio de mensagens em plataformas de mensagens baseadas na web, como o WhatsApp Web. Ele está configurado para enviar a mensagem "Eu te amo!!❤️" a cada 1 hora.
